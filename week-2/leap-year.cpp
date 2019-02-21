@@ -1,6 +1,6 @@
 /*
 A simple C program for checking leap year
-/*
+*/
 
 #include<stdio.h>
 
