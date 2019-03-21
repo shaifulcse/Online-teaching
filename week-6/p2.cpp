@@ -8,6 +8,7 @@ int main(){
     int n, a[20], count[20], i, number;
     printf("How many numbers?: ");
     scanf("%d",&n);
+    printf("Enter %d numbers ", n);
 
     for(i=0;i<n;i++){
         scanf("%d",&a[i]);
