@@ -9,7 +9,7 @@ int main(){
     char ch[100];
     int count[123],index, i, len;
 
-    for(i=0;i<123;i++){
+    for(i=65;i<123;i++){
         count[i]=0;
     }
 
@@ -21,7 +21,7 @@ int main(){
         count[index]++;
     }
 
-    for(i=0;i<123;i++){
+    for(i=65;i<123;i++){
         if(count[i]>0){
             printf("%c=%d",i, count[i]);
             printf("\n");
