@@ -7,7 +7,7 @@ first string.
 #include<string.h>
 
 int main(){
-    int i,j, decision=0, start, track, len1, len2;
+    int i,j, decision=1, start, track, len1, len2;
     char ch1[100],ch2[100],c;
     printf("Enter the first string:\n");
     scanf("%[^\n]",ch1);
@@ -22,7 +22,6 @@ int main(){
         start=i;
         if(len1-start<len2){
             decision=1;
-            printf("No");
             break;
         }
         track=0;
@@ -34,12 +33,16 @@ int main(){
             start++;
         }
         if(track==0){
+            decision=0;
             break;
         }
     }
 
     if(decision==0){
         printf("Yes");
+    }
+    else{
+        printf("No");
     }
     return 0;
 }
