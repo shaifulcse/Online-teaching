@@ -5,6 +5,7 @@ Skeleton for a fake telephone book software
 
 #include<stdio.h>
 #include<string.h>
+#define SIZE 1000
 
 int options();
 void insert();
@@ -18,7 +19,7 @@ struct person{
     int age;
     char name[50];
     char phone[30];
-}contact[100];
+}contact[SIZE];
 
 int options(){
     int option;
