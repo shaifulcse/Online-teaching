@@ -1,7 +1,7 @@
 Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
 1 	15/01/2018 	Zimbabwe 	Shere Bangla National Stadium 	not out 	84* 	93 	90.32 	  	84 	  	90.32
 2 	19/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	c †N Dickwella b A Dananjaya 	84 	102 	82.35 	  	168 	168.00 	86.15
-3 	23/01/2018 	Zimbabwe 	Shere Bangla National Stadium 	st B R M Taylor b A G Cremer 	crap-data 	105 	72.38 	  	244 	122.00 	81.33
+3 	23/01/2018 	Zimbabwe 	Shere Bangla National Stadium 	st B R M Taylor b A G Cremer 	76 	105 	72.38 	  	244 	122.00 	81.33
 4 	25/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	c M D Gunathilaka b R A S Lakmal 	5 	14 	35.71 	  	249 	83.00 	79.30
 5 	27/01/2018 	Sri Lanka 	Shere Bangla National Stadium 	c A Dananjaya b P V D Chameera 	3 	18 	16.67 	  	252 	63.00 	75.90
 6 	22/07/2018 	West Indies 	Providence Stadium 	not out 	130* 	160 	81.25 	  	382 	95.50 	77.64

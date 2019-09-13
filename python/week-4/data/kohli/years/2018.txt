@@ -1,0 +1,15 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	01/02/2018 	South Africa 	Kingsmead 	c K Rabada b A L Phehlukwayo 	112 	119 	94.12 	  	112 	112.00 	94.12
+2 	04/02/2018 	South Africa 	SuperSport Park 	not out 	46* 	50 	92.00 	  	158 	158.00 	93.49
+3 	07/02/2018 	South Africa 	Newlands 	not out 	160* 	159 	100.63 	  	318 	318.00 	96.95
+4 	10/02/2018 	South Africa 	Wanderers Stadium 	c D A Miller b C H Morris 	75 	83 	90.36 	  	393 	196.50 	95.62
+5 	13/02/2018 	South Africa 	St George's Park 	run out 	36 	54 	66.67 	  	429 	143.00 	92.26
+6 	16/02/2018 	South Africa 	SuperSport Park 	not out 	129* 	96 	134.38 	  	558 	186.00 	99.47
+7 	12/07/2018 	England 	Trent Bridge 	st J C Buttler b A U Rashid 	75 	82 	91.46 	  	633 	158.25 	98.44
+8 	14/07/2018 	England 	Lord's 	lbw b M M Ali 	45 	56 	80.36 	  	678 	135.60 	97.00
+9 	17/07/2018 	England 	Headingley 	b A U Rashid 	71 	72 	98.61 	  	749 	124.83 	97.15
+10 	21/10/2018 	West Indies 	Barsapara Cricket Stadium 	st S D Hope b D Bishoo 	140 	107 	130.84 	  	889 	127.00 	101.25
+11 	24/10/2018 	West Indies 	Dr YS Rajasekhara Reddy Cricket Stadium 	not out 	157* 	129 	121.71 	  	1046 	149.43 	103.87
+12 	27/10/2018 	West Indies 	Maharashtra Cricket Association Stadium 	b M N Samuels 	107 	119 	89.92 	  	1153 	144.13 	102.40
+13 	29/10/2018 	West Indies 	Brabourne Stadium 	c †S D Hope b K A J Roach 	16 	17 	94.12 	  	1169 	129.89 	102.27
+14 	01/11/2018 	West Indies 	Greenfield International Stadium 	not out 	33* 	29 	113.79 	  	1202 	133.56 	102.56 

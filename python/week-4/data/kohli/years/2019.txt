@@ -1,0 +1,24 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	12/01/2019 	Australia 	Sydney Cricket Ground 	c M P Stoinis b J A Richardson 	3 	8 	37.50 	  	3 	3.00 	37.50
+2 	15/01/2019 	Australia 	Adelaide Oval 	c G J Maxwell b J A Richardson 	104 	112 	92.86 	  	107 	53.50 	89.17
+3 	18/01/2019 	Australia 	Melbourne Cricket Ground 	c †A T Carey b J A Richardson 	46 	62 	74.19 	  	153 	51.00 	84.07
+4 	23/01/2019 	New Zealand 	McLean Park 	c †T W M Latham b L H Ferguson 	45 	59 	76.27 	  	198 	49.50 	82.16
+5 	26/01/2019 	New Zealand 	Bay Oval 	c I S Sodhi b T A Boult 	43 	45 	95.56 	  	241 	48.20 	84.27
+6 	28/01/2019 	New Zealand 	Bay Oval 	c H M Nicholls b T A Boult 	60 	74 	81.08 	  	301 	50.17 	83.61
+7 	02/03/2019 	Australia 	Rajiv Gandhi International Stadium 	lbw b A Zampa 	44 	45 	97.78 	  	345 	49.29 	85.19
+8 	05/03/2019 	Australia 	Vidarbha Cricket Association Stadium 	c M P Stoinis b P J Cummins 	116 	120 	96.67 	  	461 	57.63 	87.81
+9 	08/03/2019 	Australia 	JSCA International Stadium Complex 	b A Zampa 	123 	95 	129.47 	  	584 	64.89 	94.19
+10 	10/03/2019 	Australia 	Punjab Cricket Association IS Bindra Stadium 	c †A T Carey b J A Richardson 	7 	6 	116.67 	  	591 	59.10 	94.41
+11 	13/03/2019 	Australia 	Feroz Shah Kotla 	c †A T Carey b M P Stoinis 	20 	22 	90.91 	  	611 	55.55 	94.29
+12 	05/06/2019 	South Africa 	The Rose Bowl 	c †Q de Kock b A L Phehlukwayo 	18 	34 	52.94 	  	629 	52.42 	92.23
+13 	09/06/2019 	Australia 	Kennington Oval 	c P J Cummins b M P Stoinis 	82 	77 	106.49 	  	711 	54.69 	93.68
+14 	16/06/2019 	Pakistan 	Old Trafford 	c †Sarfaraz Ahmed b Mohammad Amir 	77 	65 	118.46 	  	788 	56.29 	95.63
+15 	22/06/2019 	Afghanistan 	The Rose Bowl 	c Rahmat Shah b Mohammad Nabi 	67 	63 	106.35 	  	855 	57.00 	96.39
+16 	27/06/2019 	West Indies 	Old Trafford 	c sub b J O Holder 	72 	82 	87.80 	  	927 	57.94 	95.67
+17 	30/06/2019 	England 	Edgbaston 	c sub b L E Plunkett 	66 	76 	86.84 	  	993 	58.41 	95.02
+18 	02/07/2019 	Bangladesh 	Edgbaston 	c Rubel Hossain b Mustafizur Rahman 	26 	27 	96.30 	  	1019 	56.61 	95.06
+19 	06/07/2019 	Sri Lanka 	Headingley 	not out 	34* 	41 	82.93 	  	1053 	58.50 	94.61
+20 	09/07/2019 	New Zealand 	Old Trafford 	lbw b T A Boult 	1 	6 	16.67 	  	1054 	55.47 	94.19
+21 	08/08/2019 	West Indies 	Providence Stadium 	did not bat 	- 	- 	- 	  	1054 	55.47 	94.19
+22 	11/08/2019 	West Indies 	Queen's Park Oval 	c K A J Roach b C R Brathwaite 	120 	125 	96.00 	  	1174 	58.70 	94.37
+23 	14/08/2019 	West Indies 	Queen's Park Oval 	not out 	114* 	99 	115.15 	  	1288 	64.40 	95.90 

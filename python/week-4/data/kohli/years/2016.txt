@@ -1,0 +1,11 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	12/01/2016 	Australia 	WACA Ground 	c A J Finch b J P Faulkner 	91 	97 	93.81 	  	91 	91.00 	93.81
+2 	15/01/2016 	Australia 	Brisbane Cricket Ground 	run out 	59 	67 	88.06 	  	150 	75.00 	91.46
+3 	17/01/2016 	Australia 	Melbourne Cricket Ground 	c G J Bailey b J W Hastings 	117 	117 	100.00 	  	267 	89.00 	95.02
+4 	20/01/2016 	Australia 	Manuka Oval 	c S P D Smith b K W Richardson 	106 	92 	115.22 	  	373 	93.25 	100.00
+5 	23/01/2016 	Australia 	Sydney Cricket Ground 	c †M S Wade b J W Hastings 	8 	11 	72.73 	  	381 	76.20 	99.22
+6 	16/10/2016 	New Zealand 	Himachal Pradesh Cricket Association Stadium 	not out 	85* 	81 	104.94 	  	466 	93.20 	100.22
+7 	20/10/2016 	New Zealand 	Feroz Shah Kotla 	c †L Ronchi b M J Santner 	9 	13 	69.23 	  	475 	79.17 	99.37
+8 	23/10/2016 	New Zealand 	Punjab Cricket Association IS Bindra Stadium 	not out 	154* 	134 	114.93 	  	629 	104.83 	102.78
+9 	26/10/2016 	New Zealand 	JSCA International Stadium Complex 	c †B J Watling b I S Sodhi 	45 	51 	88.24 	  	674 	96.29 	101.66
+10 	29/10/2016 	New Zealand 	Dr YS Rajasekhara Reddy Cricket Stadium 	c M J Guptill b I S Sodhi 	65 	76 	85.53 	  	739 	92.38 	100.00 

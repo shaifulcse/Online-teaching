@@ -1,0 +1,21 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	18/01/2015 	Australia 	Melbourne Cricket Ground 	c G J Bailey b J P Faulkner 	9 	16 	56.25 	  	9 	9.00 	56.25
+2 	20/01/2015 	England 	Brisbane Cricket Ground 	c †J C Buttler b S T Finn 	4 	8 	50.00 	  	13 	6.50 	54.17
+3 	26/01/2015 	Australia 	Sydney Cricket Ground 	not out 	3* 	9 	33.33 	  	16 	8.00 	48.48
+4 	30/01/2015 	England 	WACA Ground 	c J E Root b M M Ali 	8 	19 	42.11 	  	24 	8.00 	46.15
+5 	15/02/2015 	Pakistan 	Adelaide Oval 	c †Umar Akmal b Sohail Khan 	107 	126 	84.92 	  	131 	32.75 	73.60
+6 	22/02/2015 	South Africa 	Melbourne Cricket Ground 	c F du Plessis b Imran Tahir 	46 	60 	76.67 	  	177 	35.40 	74.37
+7 	28/02/2015 	United Arab Emirates 	WACA Ground 	not out 	33* 	41 	80.49 	  	210 	42.00 	75.27
+8 	06/03/2015 	West Indies 	WACA Ground 	c M N Samuels b A D Russell 	33 	36 	91.67 	  	243 	40.50 	77.14
+9 	10/03/2015 	Ireland 	Seddon Park 	not out 	44* 	42 	104.76 	  	287 	47.83 	80.39
+10 	14/03/2015 	Zimbabwe 	Eden Park 	b Sikandar Raza 	38 	48 	79.17 	  	325 	46.43 	80.25
+11 	19/03/2015 	Bangladesh 	Melbourne Cricket Ground 	c †Mushfiqur Rahim b Rubel Hossain 	3 	8 	37.50 	  	328 	41.00 	79.42
+12 	26/03/2015 	Australia 	Sydney Cricket Ground 	c †B J Haddin b M G Johnson 	1 	13 	7.69 	  	329 	36.56 	77.23
+13 	18/06/2015 	Bangladesh 	Shere Bangla National Stadium 	c †Mushfiqur Rahim b Taskin Ahmed 	1 	4 	25.00 	  	330 	33.00 	76.74
+14 	21/06/2015 	Bangladesh 	Shere Bangla National Stadium 	lbw b Nasir Hossain 	23 	27 	85.19 	  	353 	32.09 	77.24
+15 	24/06/2015 	Bangladesh 	Shere Bangla National Stadium 	b Shakib Al Hasan 	25 	35 	71.43 	  	378 	31.50 	76.83
+16 	11/10/2015 	South Africa 	Green Park 	c M Morkel b D W Steyn 	11 	18 	61.11 	  	389 	29.92 	76.27
+17 	14/10/2015 	South Africa 	Holkar Cricket Stadium 	run out 	12 	18 	66.67 	  	401 	28.64 	75.95
+18 	18/10/2015 	South Africa 	Saurashtra Cricket Association Stadium 	c D A Miller b M Morkel 	77 	99 	77.78 	  	478 	31.87 	76.24
+19 	22/10/2015 	South Africa 	MA Chidambaram Stadium 	c †Q de Kock b K Rabada 	138 	140 	98.57 	  	616 	38.50 	80.31
+20 	25/10/2015 	South Africa 	Wankhede Stadium 	c †Q de Kock b K Rabada 	7 	6 	116.67 	  	623 	36.65 	80.60 

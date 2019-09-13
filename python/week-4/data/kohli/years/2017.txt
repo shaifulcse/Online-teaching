@@ -1,0 +1,27 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
+1 	15/01/2017 	England 	Maharashtra Cricket Association Stadium 	c D J Willey b B A Stokes 	122 	105 	116.19 	  	122 	122.00 	116.19
+2 	19/01/2017 	England 	Barabati Stadium 	c B A Stokes b C R Woakes 	8 	5 	160.00 	  	130 	65.00 	118.18
+3 	22/01/2017 	England 	Eden Gardens 	c †J C Buttler b B A Stokes 	55 	63 	87.30 	  	185 	61.67 	106.94
+4 	04/06/2017 	Pakistan 	Edgbaston 	not out 	81* 	68 	119.12 	  	266 	88.67 	110.37
+5 	08/06/2017 	Sri Lanka 	Kennington Oval 	c †N Dickwella b N Pradeep 	0 	5 	0.00 	  	266 	66.50 	108.13
+6 	11/06/2017 	South Africa 	Kennington Oval 	not out 	76* 	101 	75.25 	  	342 	85.50 	98.56
+7 	15/06/2017 	Bangladesh 	Edgbaston 	not out 	96* 	78 	123.08 	  	438 	109.50 	103.06
+8 	18/06/2017 	Pakistan 	Kennington Oval 	c Shadab Khan b Mohammad Amir 	5 	9 	55.56 	  	443 	88.60 	102.07
+9 	23/06/2017 	West Indies 	Queen's Park Oval 	not out 	32* 	47 	68.09 	  	475 	95.00 	98.75
+10 	25/06/2017 	West Indies 	Queen's Park Oval 	c A R Nurse b A S Joseph 	87 	66 	131.82 	  	562 	93.67 	102.74
+11 	30/06/2017 	West Indies 	Sir Vivian Richards Stadium 	c K A Hope b J O Holder 	11 	22 	50.00 	  	573 	81.86 	100.70
+12 	02/07/2017 	West Indies 	Sir Vivian Richards Stadium 	c †S D Hope b J O Holder 	3 	12 	25.00 	  	576 	72.00 	99.14
+13 	06/07/2017 	West Indies 	Sabina Park 	not out 	111* 	115 	96.52 	  	687 	85.88 	98.71
+14 	20/08/2017 	Sri Lanka 	Rangiri Dambulla International Stadium 	not out 	82* 	70 	117.14 	  	769 	96.13 	100.39
+15 	24/08/2017 	Sri Lanka 	Pallekele International Cricket Stadium 	b A Dananjaya 	4 	2 	200.00 	  	773 	85.89 	100.65
+16 	27/08/2017 	Sri Lanka 	Pallekele International Cricket Stadium 	c P V D Chameera b M V T Fernando 	3 	11 	27.27 	  	776 	77.60 	99.61
+17 	31/08/2017 	Sri Lanka 	R Premadasa Stadium 	c E M D Y Munaweera b S L Malinga 	131 	96 	136.46 	  	907 	82.45 	103.66
+18 	03/09/2017 	Sri Lanka 	R Premadasa Stadium 	not out 	110* 	116 	94.83 	  	1017 	92.45 	102.62
+19 	17/09/2017 	Australia 	MA Chidambaram Stadium 	c G J Maxwell b N M Coulter-Nile 	0 	4 	0.00 	  	1017 	84.75 	102.21
+20 	21/09/2017 	Australia 	Eden Gardens 	b N M Coulter-Nile 	92 	107 	85.98 	  	1109 	85.31 	100.64
+21 	24/09/2017 	Australia 	Holkar Cricket Stadium 	c A J Finch b A C Agar 	28 	35 	80.00 	  	1137 	81.21 	100.00
+22 	28/09/2017 	Australia 	M Chinnaswamy Stadium 	b N M Coulter-Nile 	21 	21 	100.00 	  	1158 	77.20 	100.00
+23 	01/10/2017 	Australia 	Vidarbha Cricket Association Stadium 	c M P Stoinis b A Zampa 	39 	55 	70.91 	  	1197 	74.81 	98.68
+24 	22/10/2017 	New Zealand 	Wankhede Stadium 	c T A Boult b T G Southee 	121 	125 	96.80 	  	1318 	77.53 	98.51
+25 	25/10/2017 	New Zealand 	Maharashtra Cricket Association Stadium 	c †T W M Latham b C de Grandhomme 	29 	29 	100.00 	  	1347 	74.83 	98.54
+26 	29/10/2017 	New Zealand 	Green Park 	c K S Williamson b T G Southee 	113 	106 	106.60 	  	1460 	76.84 	99.12 

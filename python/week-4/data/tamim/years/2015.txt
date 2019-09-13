@@ -1,3 +1,4 @@
+  	Date 	Versus 	Ground 	How Dismissed 	Runs 	B/F 	S/R 	  	Aggr 	Avg 	S/R
 1 	18/02/2015 	Afghanistan 	Manuka Oval 	c †Afsar Zazai b Mirwais Ashraf 	19 	42 	45.24 	  	19 	19.00 	45.24
 2 	26/02/2015 	Sri Lanka 	Melbourne Cricket Ground 	b S L Malinga 	0 	2 	0.00 	  	19 	9.50 	43.18
 3 	04/03/2015 	Scotland 	Saxton Oval 	lbw b J H Davey 	95 	100 	95.00 	  	114 	38.00 	79.17
